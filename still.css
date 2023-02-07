@@ -1,0 +1,48 @@
+* {
+
+    padding: 0px;
+    margin: 2px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.crveniTekst {
+    color: red;
+}
+
+h2 {
+    font-style: italic;
+    font-family: cursive;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+nav ul li1 a {
+    color: red;
+    text-decoration: underline;
+
+
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+div img {
+
+    padding: 5px;
+    height: 500;
+    width: 1500;
+
+}
