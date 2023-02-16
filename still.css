@@ -39,10 +39,51 @@ nav ul li a {
     text-decoration: none;
 }
 
-div img {
+img {
 
     padding: 5px;
     height: 500;
     width: 1500;
 
 }
+
+h3 {
+    background-color: red;
+    text-align: center;
+    color: #e2d8d8;
+
+}
+
+#desnaStrana {
+    display: inline-block;
+    width: 80%;
+}
+
+#kolona1 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+#kolona2 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+p {
+    text-align: justify;
+    margin-top: 25px;
+    margin-left: 140px;
+ 
+}
+
+sub {
+    font-style: italic;
+    color: gray;
+    
+    margin-left: 140px;
+}
+  
+  
